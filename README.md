@@ -1,2 +1,2 @@
 # powershell
-My meanderingsof powershelling
+My meanderings of powershelling
